@@ -137,4 +137,4 @@ Test the provided *SELECT, **UPDATE, and **JOIN* queries.
 The Clinic Management System demonstrates how a well-designed relational database can simplify medical data management.
 By combining structured schema design, meaningful relationships, and practical SQL queries, this project offers a scalable solution for real-world clinic operations.
 Future work could integrate a *web-based interface* and *authentication system* to make it production-ready.
-https://drive.google.com/file/d/1E3X7RsHE-7dftpL9l4OmzW6zXDw9CG2l/view?usp=drivesdk
+https://youtu.be/oatTpNKI26w?si=dWaT0WAiveFeQFbz
